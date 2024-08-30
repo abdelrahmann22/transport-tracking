@@ -1,0 +1,32 @@
+<div class="container mt-5">
+    <div class="card p-4" *ngIf="route_bus">
+        <div class="card-header">
+            <h2 class="text-center">Route Details</h2>
+        </div>
+        <div class="card-body">
+            <p><strong>Route ID:</strong> {{ route_bus.routeId }}</p>
+            <p>
+                <strong>Route Short Name:</strong>
+                {{ route_bus.routeShortName }}
+            </p>
+            <p>
+                <strong>Route Long Name:</strong> {{ route_bus.routeLongName }}
+            </p>
+            <p><strong>Route Type:</strong> {{ route_bus.routeType }}</p>
+            <p><strong>Agency ID:</strong> {{ route_bus.agencyId }}</p>
+
+            <h3>Buses on this Route</h3>
+            <ul class="list-group">
+                <li class="list-group-item" *ngFor="let bus of buses">
+                    <div (click)="showBusInfo(bus)" class="bus-item">
+                        <span>{{ bus.busId }}</span>
+                    </div>
+                    <!-- Display bus info if this bus is selected -->
+                    <div *ngIf="selectedBus && selectedBus.busId === bus.busId">
+                        <app-bus-info [bus]="selectedBus"></app-bus-info>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,46 @@
+.card {
+    border: none;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+    border-radius: 0.25rem 0.25rem 0 0;
+}
+
+.list-group-item {
+    transition: background-color 0.3s ease;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+}
+
+.route-id {
+    font-weight: 500;
+    color: #495057;
+}
+
+.btn-outline-primary {
+    border-width: 2px;
+}
+
+.btn-outline-primary:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+@media (max-width: 767px) {
+    .card-header h2 {
+        font-size: 1.5rem;
+    }
+
+    .list-group-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .btn-outline-primary {
+        margin-top: 0.5rem;
+        width: 100%;
+    }
+}

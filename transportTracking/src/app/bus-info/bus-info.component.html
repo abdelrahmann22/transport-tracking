@@ -1,0 +1,42 @@
+<mat-card class="bus-info-card">
+    <mat-card-header>
+        <mat-card-title>Bus Information</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+        <div *ngIf="bus" class="bus-details">
+            <div class="row mb-2">
+                <div class="col-sm-4">
+                    <strong>Bus ID:</strong>
+                </div>
+                <div class="col-sm-8">
+                    {{ bus.busId }}
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-sm-4">
+                    <strong>Route ID:</strong>
+                </div>
+                <div class="col-sm-8">
+                    {{ bus.routeId.routeId }}
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-sm-4">
+                    <strong>Location:</strong>
+                </div>
+                <div class="col-sm-8">
+                    {{ bus.location.coordinates[0] }},
+                    {{ bus.location.coordinates[1] }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <strong>Last Updated:</strong>
+                </div>
+                <div class="col-sm-8">
+                    {{ bus.lastUpdated | date: "medium" }}
+                </div>
+            </div>
+        </div>
+    </mat-card-content>
+</mat-card>

@@ -1,0 +1,18 @@
+.map-container {
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 0.25rem; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Styling for the bus info component within the Angular Material card */
+app-bus-info {
+    padding: 1rem; /* Padding inside the component */
+    border: 1px solid #ddd; /* Light border */
+    border-radius: 0.25rem; /* Rounded corners */
+    background-color: #f8f9fa; /* Light background color */
+}
+
+/* Optional: Additional styling for responsiveness */
+.container {
+    max-width: 1200px; /* Optional max width for better layout */
+}

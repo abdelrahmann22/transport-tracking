@@ -1,0 +1,16 @@
+.navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 10px; /* Adjust spacing as needed */
+}
+
+.navbar-nav.ml-auto {
+    margin-left: auto;
+}
+
+.navbar-brand {
+    margin-right: auto;
+}

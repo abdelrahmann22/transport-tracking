@@ -1,0 +1,7 @@
+<div
+    style="height: 500px"
+    leaflet
+    [leafletOptions]="mapOptions"
+    (leafletMapReady)="onMapReady($event)"
+></div>
+<app-bus-info *ngIf="selectedBus" [bus]="selectedBus"></app-bus-info>
