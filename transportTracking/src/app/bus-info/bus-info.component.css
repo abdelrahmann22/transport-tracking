@@ -1,24 +1,22 @@
 .map-container {
-    border: 1px solid #ddd; /* Light border */
-    border-radius: 0.25rem; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .bus-info-card {
-    max-width: 600px; /* Max width of the card */
-    margin: 20px auto; /* Center align with margin */
-    border: 1px solid #ddd; /* Light border */
-    border-radius: 0.25rem; /* Rounded corners */
+    max-width: 600px;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
 }
 
-/* Styling for the bus details within the card */
 .bus-details {
-    padding: 1rem; /* Padding inside the card content */
+    padding: 1rem;
 }
 
-/* Responsive adjustments */
 @media (max-width: 767.98px) {
     .map-container {
-        height: 300px; /* Adjust height for smaller screens */
+        height: 300px;
     }
 }
