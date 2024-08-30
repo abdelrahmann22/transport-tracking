@@ -1,0 +1,996 @@
+[
+  {
+    "routeId": "Q44+",
+    "routeShortName": "Q44",
+    "routeLongName": "Q44 - Flushing - Jamaica",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M125",
+    "routeShortName": "M125",
+    "routeLongName": "M125 - Harlem - Lower Manhattan",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q43",
+    "routeShortName": "Q43",
+    "routeLongName": "Q43 - Jamaica - Queens Village",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q12",
+    "routeShortName": "Q12",
+    "routeLongName": "Q12 - Flushing - Bay Terrace",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M60+",
+    "routeShortName": "M60",
+    "routeLongName": "M60 - Astoria - LaGuardia Airport",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B62",
+    "routeShortName": "B62",
+    "routeLongName": "B62 - Downtown Brooklyn - Coney Island",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q59",
+    "routeShortName": "Q59",
+    "routeLongName": "Q59 - Ridgewood - Long Island City",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q4",
+    "routeShortName": "Q4",
+    "routeLongName": "Q4 - Jamaica - Brooklyn",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q27",
+    "routeShortName": "Q27",
+    "routeLongName": "Q27 - Jamaica - Bell Boulevard",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q13",
+    "routeShortName": "Q13",
+    "routeLongName": "Q13 - Flushing - College Point",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX34",
+    "routeShortName": "BX34",
+    "routeLongName": "BX34 - Bay Plaza - Riverdale",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M14D+",
+    "routeShortName": "M14D",
+    "routeLongName": "M14D - 14th Street - Downtown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M101",
+    "routeShortName": "M101",
+    "routeLongName": "M101 - East Harlem - Downtown Manhattan",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX40",
+    "routeShortName": "BX40",
+    "routeLongName": "BX40 - Co-op City - Midtown Manhattan",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B36",
+    "routeShortName": "B36",
+    "routeLongName": "B36 - Kings Plaza - Coney Island",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B93",
+    "routeShortName": "B93",
+    "routeLongName": "B93 - Bay Ridge - Bensonhurst",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B3",
+    "routeShortName": "B3",
+    "routeLongName": "B3 - Flatbush - Canarsie",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B6",
+    "routeShortName": "B6",
+    "routeLongName": "B6 - Brownsville - East New York",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q54",
+    "routeShortName": "Q54",
+    "routeLongName": "Q54 - Jamaica - Ridgewood",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX32",
+    "routeShortName": "BX32",
+    "routeLongName": "BX32 - Riverdale - 231st Street",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX33",
+    "routeShortName": "BX33",
+    "routeLongName": "BX33 - Williamsbridge - White Plains Road",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q85",
+    "routeShortName": "Q85",
+    "routeLongName": "Q85 - Jamaica - St. Albans",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q20A",
+    "routeShortName": "Q20A",
+    "routeLongName": "Q20A - Flushing - College Point",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q3",
+    "routeShortName": "Q3",
+    "routeLongName": "Q3 - Queens Village - Jamaica",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX36",
+    "routeShortName": "BX36",
+    "routeLongName": "BX36 - Pelham Bay - Parkchester",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q28",
+    "routeShortName": "Q28",
+    "routeLongName": "Q28 - Flushing - Jamaica",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B8",
+    "routeShortName": "B8",
+    "routeLongName": "B8 - Kings Plaza - Canarsie",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M96",
+    "routeShortName": "M96",
+    "routeLongName": "M96 - Upper East Side - Downtown Manhattan",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B16",
+    "routeShortName": "B16",
+    "routeLongName": "B16 - East New York - Brooklyn",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B11",
+    "routeShortName": "B11",
+    "routeLongName": "B11 - Downtown Brooklyn - East New York",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B9",
+    "routeShortName": "B9",
+    "routeLongName": "B9 - Flatlands - East New York",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q58",
+    "routeShortName": "Q58",
+    "routeLongName": "Q58 - Middle Village - Ridgewood",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B13",
+    "routeShortName": "B13",
+    "routeLongName": "B13 - Brownsville - Canarsie",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M7",
+    "routeShortName": "M7",
+    "routeLongName": "M7 - Manhattan - Downtown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M1",
+    "routeShortName": "M1",
+    "routeLongName": "M1 - Downtown - Midtown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S78",
+    "routeShortName": "S78",
+    "routeLongName": "S78 - St. George - Eltingville",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S74",
+    "routeShortName": "S74",
+    "routeLongName": "S74 - Mariners Harbor - Eltingville",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B31",
+    "routeShortName": "B31",
+    "routeLongName": "B31 - Bay Ridge - Downtown Brooklyn",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B43",
+    "routeShortName": "B43",
+    "routeLongName": "B43 - Brownsville - Crown Heights",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q5",
+    "routeShortName": "Q5",
+    "routeLongName": "Q5 - Queens Village - St. Albans",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q16",
+    "routeShortName": "Q16",
+    "routeLongName": "Q16 - Jamaica - Far Rockaway",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q31",
+    "routeShortName": "Q31",
+    "routeLongName": "Q31 - St. Albans - Jamaica",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M50",
+    "routeShortName": "M50",
+    "routeLongName": "M50 - Midtown - Downtown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M14A+",
+    "routeShortName": "M14A",
+    "routeLongName": "M14A - 14th Street - Downtown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B26",
+    "routeShortName": "B26",
+    "routeLongName": "B26 - Brownsville - East New York",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX16",
+    "routeShortName": "BX16",
+    "routeLongName": "BX16 - Co-op City - Pelham Bay",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B63",
+    "routeShortName": "B63",
+    "routeLongName": "B63 - Red Hook - Downtown Brooklyn",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M100",
+    "routeShortName": "M100",
+    "routeLongName": "M100 - Harlem - Downtown Manhattan",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B17",
+    "routeShortName": "B17",
+    "routeLongName": "B17 - Flatbush - East New York",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B82",
+    "routeShortName": "B82",
+    "routeLongName": "B82 - Kings Plaza - Rockaway Parkway",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B15",
+    "routeShortName": "B15",
+    "routeLongName": "B15 - JFK Airport - East New York",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B25",
+    "routeShortName": "B25",
+    "routeLongName": "B25 - Downtown Brooklyn - Fort Greene",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B14",
+    "routeShortName": "B14",
+    "routeLongName": "B14 - East New York - Brownsville",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B42",
+    "routeShortName": "B42",
+    "routeLongName": "B42 - East New York - Brownsville",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B64",
+    "routeShortName": "B64",
+    "routeLongName": "B64 - Coney Island - Bay Ridge",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B45",
+    "routeShortName": "B45",
+    "routeLongName": "B45 - East New York - Brownsville",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B57",
+    "routeShortName": "B57",
+    "routeLongName": "B57 - Gowanus - Downtown Brooklyn",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B60",
+    "routeShortName": "B60",
+    "routeLongName": "B60 - East New York - Bushwick",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M102",
+    "routeShortName": "M102",
+    "routeLongName": "M102 - East Harlem - Downtown Manhattan",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q15A",
+    "routeShortName": "Q15A",
+    "routeLongName": "Q15A - Flushing - St. Albans",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q48",
+    "routeShortName": "Q48",
+    "routeLongName": "Q48 - Flushing - LaGuardia Airport",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M8",
+    "routeShortName": "M8",
+    "routeLongName": "M8 - 14th Street - Midtown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M20",
+    "routeShortName": "M20",
+    "routeLongName": "M20 - Battery Park City - Midtown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q32",
+    "routeShortName": "Q32",
+    "routeLongName": "Q32 - Jackson Heights - Midtown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M22",
+    "routeShortName": "M22",
+    "routeLongName": "M22 - Chelsea - Greenwich Village",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S62",
+    "routeShortName": "S62",
+    "routeLongName": "S62 - St. George - Eltingville",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M5",
+    "routeShortName": "M5",
+    "routeLongName": "M5 - Downtown - Midtown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S52",
+    "routeShortName": "S52",
+    "routeLongName": "S52 - St. George - Willowbrook",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S53",
+    "routeShortName": "S53",
+    "routeLongName": "S53 - St. George - West Shore",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B20",
+    "routeShortName": "B20",
+    "routeLongName": "B20 - Flatbush - East New York",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B1",
+    "routeShortName": "B1",
+    "routeLongName": "B1 - Coney Island - Bay Ridge",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B2",
+    "routeShortName": "B2",
+    "routeLongName": "B2 - Midwood - Sheepshead Bay",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B4",
+    "routeShortName": "B4",
+    "routeLongName": "B4 - New Utrecht - East 16th Street",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B7",
+    "routeShortName": "B7",
+    "routeLongName": "B7 - Bay Parkway - Rockaway Parkway",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B12",
+    "routeShortName": "B12",
+    "routeLongName": "B12 - East New York - Brownsville",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B23",
+    "routeShortName": "B23",
+    "routeLongName": "B23 - Downtown Brooklyn - East New York",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B28",
+    "routeShortName": "B28",
+    "routeLongName": "B28 - Brooklyn College - East New York",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B30",
+    "routeShortName": "B30",
+    "routeLongName": "B30 - Mill Basin - Starrett City",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B35",
+    "routeShortName": "B35",
+    "routeLongName": "B35 - East New York - Flatbush",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B41",
+    "routeShortName": "B41",
+    "routeLongName": "B41 - Flatbush - Crown Heights",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B44",
+    "routeShortName": "B44",
+    "routeLongName": "B44 - Williamsburg - Crown Heights",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B46",
+    "routeShortName": "B46",
+    "routeLongName": "B46 - East New York - Crown Heights",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B47",
+    "routeShortName": "B47",
+    "routeLongName": "B47 - Brooklyn Navy Yard - Bay Ridge",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B48",
+    "routeShortName": "B48",
+    "routeLongName": "B48 - Greenpoint - Bushwick",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B49",
+    "routeShortName": "B49",
+    "routeLongName": "B49 - Williamsburg - Greenpoint",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "SIM3C",
+    "routeShortName": "SIM3C",
+    "routeLongName": "SIM3C - Staten Island Express",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M2",
+    "routeShortName": "M2",
+    "routeLongName": "M2 - Madison Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M116",
+    "routeShortName": "M116",
+    "routeLongName": "M116 - 116th Street Crosstown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M10",
+    "routeShortName": "M10",
+    "routeLongName": "M10 - Central Park West",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M3",
+    "routeShortName": "M3",
+    "routeLongName": "M3 - St. Nicholas Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX1",
+    "routeShortName": "BX1",
+    "routeLongName": "BX1 - Concourse",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S59",
+    "routeShortName": "S59",
+    "routeLongName": "S59 - Port Richmond - Tottenville",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M103",
+    "routeShortName": "M103",
+    "routeLongName": "M103 - 3rd Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M15",
+    "routeShortName": "M15",
+    "routeLongName": "M15 - 1st and 2nd Avenues",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M31",
+    "routeShortName": "M31",
+    "routeLongName": "M31 - York Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B52",
+    "routeShortName": "B52",
+    "routeLongName": "B52 - Gates Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B65",
+    "routeShortName": "B65",
+    "routeLongName": "B65 - Bergen Street",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S48",
+    "routeShortName": "S48",
+    "routeLongName": "S48 - Mariners Harbor",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S46",
+    "routeShortName": "S46",
+    "routeLongName": "S46 - West Shore Plaza",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX21",
+    "routeShortName": "BX21",
+    "routeLongName": "BX21 - Morris Park Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q83",
+    "routeShortName": "Q83",
+    "routeLongName": "Q83 - Liberty Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX10",
+    "routeShortName": "BX10",
+    "routeLongName": "BX10 - Riverdale",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M34+",
+    "routeShortName": "M34+",
+    "routeLongName": "M34+ - 34th Street Crosstown SBS",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M55",
+    "routeShortName": "M55",
+    "routeLongName": "M55 - 6th and Broadway",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M42",
+    "routeShortName": "M42",
+    "routeLongName": "M42 - 42nd Street Crosstown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX12",
+    "routeShortName": "BX12",
+    "routeLongName": "BX12 - Bay Plaza",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX15",
+    "routeShortName": "BX15",
+    "routeLongName": "BX15 - Third Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B38",
+    "routeShortName": "B38",
+    "routeLongName": "B38 - DeKalb Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S40",
+    "routeShortName": "S40",
+    "routeLongName": "S40 - St. George Ferry",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX9",
+    "routeShortName": "BX9",
+    "routeLongName": "BX9 - Kingsbridge Road",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M11",
+    "routeShortName": "M11",
+    "routeLongName": "M11 - Amsterdam Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M23+",
+    "routeShortName": "M23+",
+    "routeLongName": "M23+ - 23rd Street Crosstown SBS",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q24",
+    "routeShortName": "Q24",
+    "routeLongName": "Q24 - Broadway",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q56",
+    "routeShortName": "Q56",
+    "routeLongName": "Q56 - Jamaica Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX35",
+    "routeShortName": "BX35",
+    "routeLongName": "BX35 - 167th Street Crosstown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX2",
+    "routeShortName": "BX2",
+    "routeLongName": "BX2 - Grand Concourse",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX42",
+    "routeShortName": "BX42",
+    "routeLongName": "BX42 - Throgs Neck",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q36",
+    "routeShortName": "Q36",
+    "routeLongName": "Q36 - Jamaica Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "SIM1C",
+    "routeShortName": "SIM1C",
+    "routeLongName": "SIM1C - Staten Island Express",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "SIM33C",
+    "routeShortName": "SIM33C",
+    "routeLongName": "SIM33C - Staten Island Express",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M104",
+    "routeShortName": "M104",
+    "routeLongName": "M104 - Broadway",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX6",
+    "routeShortName": "BX6",
+    "routeLongName": "BX6 - Hunts Point",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q46",
+    "routeShortName": "Q46",
+    "routeLongName": "Q46 - Union Turnpike",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q55",
+    "routeShortName": "Q55",
+    "routeLongName": "Q55 - Richmond Hill",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "S51",
+    "routeShortName": "S51",
+    "routeLongName": "S51 - Grant City",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "SIM4C",
+    "routeShortName": "SIM4C",
+    "routeLongName": "SIM4C - Staten Island Express",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B68",
+    "routeShortName": "B68",
+    "routeLongName": "B68 - Coney Island Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B67",
+    "routeShortName": "B67",
+    "routeLongName": "B67 - 7th Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX19",
+    "routeShortName": "BX19",
+    "routeLongName": "BX19 - Southern Boulevard",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "B54",
+    "routeShortName": "B54",
+    "routeLongName": "B54 - Myrtle Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M66",
+    "routeShortName": "M66",
+    "routeLongName": "M66 - 66th Street Crosstown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "M57",
+    "routeShortName": "M57",
+    "routeLongName": "M57 - 57th Street Crosstown",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX41",
+    "routeShortName": "BX41",
+    "routeLongName": "BX41 - Webster Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX29",
+    "routeShortName": "BX29",
+    "routeLongName": "BX29 - Bay Plaza",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX31",
+    "routeShortName": "BX31",
+    "routeLongName": "BX31 - Eastchester",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX17",
+    "routeShortName": "BX17",
+    "routeLongName": "BX17 - Crotona Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX3",
+    "routeShortName": "BX3",
+    "routeLongName": "BX3 - University Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX7",
+    "routeShortName": "BX7",
+    "routeLongName": "BX7 - Riverdale",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "Q2",
+    "routeShortName": "Q2",
+    "routeLongName": "Q2 - Hillside Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX39",
+    "routeShortName": "BX39",
+    "routeLongName": "BX39 - Clason Point",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX22",
+    "routeShortName": "BX22",
+    "routeLongName": "BX22 - Castle Hill Avenue",
+    "routeType": 3,
+    "agencyId": "MTA"
+  },
+  {
+    "routeId": "BX28",
+    "routeShortName": "BX28",
+    "routeLongName": "BX28 - Co-op City - Riverdale",
+    "routeType": 3,
+    "agencyId": "MTA"
+  }
+]
