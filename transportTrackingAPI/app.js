@@ -9,10 +9,7 @@ const busRoutes = require("./routes/busRoutes");
 const gtfsRoutes = require("./routes/gtfsRoutes");
 const routeRoutes = require("./routes/routeRoutes");
 const gtfsService = require("./services/gtfsService");
-const {
-  loadRoutes,
-  uploadRoutesFromJson,
-} = require("./services/staticGtfsService");
+const { uploadRoutesFromJson } = require("./services/staticGtfsService");
 
 const app = express();
 const server = http.createServer(app);
@@ -34,8 +31,8 @@ app.use("/gtfs", gtfsRoutes);
 app.use("/routes", routeRoutes);
 
 // Load the Routes
-// loadRoutes("/home/abdelrahman/Downloads/google_transit/routes.txt");
 // uploadRoutesFromJson("../staticroutes.json");
+//
 // Socket.io Connection
 io.on("connection", (socket) => {
   console.log("A user connected");

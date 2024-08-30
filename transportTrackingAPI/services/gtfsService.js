@@ -84,8 +84,6 @@ const fetchAndUpdateVehiclePositions = async () => {
           };
         }),
     );
-
-    // Remove null values (from routes not found) and return the processed data
     return processedData.filter(Boolean);
   } catch (error) {
     console.error("Error in fetchAndUpdateVehiclePositions:", error);
