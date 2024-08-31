@@ -19,7 +19,7 @@ export class RouteDetailComponent implements OnInit {
 
   ngOnInit(): void {
     const id = this.route.snapshot.paramMap.get("id");
-    console.log("route ID:", id); // Add this line to debug
+    console.log("route ID:", id);
     if (id) {
       this.transportService.getRouteById(id).subscribe(
         (data) => {
