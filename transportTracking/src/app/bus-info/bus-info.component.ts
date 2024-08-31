@@ -16,7 +16,7 @@ export class BusInfoComponent implements OnInit {
 
   ngOnInit(): void {
     const id = this.route.snapshot.paramMap.get("busId");
-    console.log("Bus ID:", id); // Add this line to debug
+    console.log("Bus ID:", id);
     if (id) {
       this.transportService.getBusById(id).subscribe(
         (data) => {
