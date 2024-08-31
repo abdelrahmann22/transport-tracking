@@ -21,7 +21,6 @@
                     <div (click)="showBusInfo(bus)" class="bus-item">
                         <span>{{ bus.busId }}</span>
                     </div>
-                    <!-- Display bus info if this bus is selected -->
                     <div *ngIf="selectedBus && selectedBus.busId === bus.busId">
                         <app-bus-info [bus]="selectedBus"></app-bus-info>
                     </div>
