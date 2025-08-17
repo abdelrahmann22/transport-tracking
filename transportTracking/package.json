@@ -1,6 +1,7 @@
 {
   "name": "transport-tracking",
   "version": "0.0.0",
+  "description": "Angular frontend for real-time public transportation tracking system with interactive maps",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
